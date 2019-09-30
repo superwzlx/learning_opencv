@@ -3,7 +3,6 @@
 #include "opencv2/videoio.hpp"
 #include "opencv2/highgui.hpp"
 #include "chapter_02.h"
-#include <Windows.h> //休眠函数Sleep()要用到该库
 
 #include <iostream>
 #include <ctype.h>
